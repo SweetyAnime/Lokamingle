@@ -23,7 +23,7 @@ It Works On Devices That Has Above Android 8(Oreo) and should support Google's P
 
 -----
 Installation:
-1. Download the project from given GitHub link
+1. Download the project
 2. Import the project in Android Studio and use physical or virtual android device to run the app
 3. This app has single API key. So, it will only work by using this method otherwise the API won't give result to user request due to its limitations
 
