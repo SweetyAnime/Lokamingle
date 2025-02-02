@@ -40,7 +40,7 @@ class Chatbot : AppCompatActivity() {
     )
 
     private val LOCATION_PERMISSION_REQUEST_CODE = 1
-    private val placesApiKey = "AIzaSyBvhZw47V_izdWBg9ePWMe4u9OdAMbDR_Y" // Replace with your actual API key
+    private val placesApiKey = "" // Replace with your actual API key
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
