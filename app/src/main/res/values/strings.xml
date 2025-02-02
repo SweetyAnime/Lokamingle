@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Lokamingle</string>
-    <string name="google_maps_api_key">AIzaSyBvhZw47V_izdWBg9ePWMe4u9OdAMbDR_Y</string>
+    <string name="google_maps_api_key">Paste_Your_API_KEY_HERE</string>
     <string name="send_button" />
 </resources>
