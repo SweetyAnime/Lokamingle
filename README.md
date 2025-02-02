@@ -28,5 +28,3 @@ Installation:
 3. This app has single API key. So, it will only work by using this method otherwise the API won't give result to user request due to its limitations
 
 -----
-
--By ACE Team
